@@ -1,2 +1,4 @@
 # Maze
-app developed for spatial studies
+App for spatial studies
+
+change test
